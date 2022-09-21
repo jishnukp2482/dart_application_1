@@ -1,8 +1,9 @@
 void showstudentdetils(String name, int age, String email, int mbno) {
-  print("NAME OF THE STUDENT nnnn :${name}");
+  print("NAME OF THE STUDENT      :${name}");
   print("AGE OF THE STUDENT       :${age}");
   print("EMAIL OF THE STUDENT     :${email}");
   print("MOBILE NO OF THE STUDENT :${mbno}");
+
   print("*******************************************");
 }
 
